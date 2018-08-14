@@ -13,6 +13,7 @@ export default {
     tinymce: 'Tinymce',
     markdown: 'Markdown',
     jsonEditor: 'JSON Editor',
+    yamlEditor: 'YAML Editor',
     dndList: 'Dnd List',
     splitPane: 'SplitPane',
     avatarUpload: 'Avatar Upload',
